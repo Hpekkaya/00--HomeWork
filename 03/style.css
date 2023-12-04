@@ -1,0 +1,47 @@
+span {font-weight: bolder}
+#h{
+    color: brown;
+    float: right;
+}
+
+div {
+    text-align: center;
+    border: 2px solid brown; 
+}
+#h6 {
+    color: ;
+}
+
+div.box1 {
+    position:absolute ; left: 5%;
+    width: 90%;
+    height: 80%;
+}
+div.box2 {
+    width: 25% ;
+    height: 20%;
+    position: absolute;
+    left:7%;
+    top: 55px;
+
+}
+div.box3 {
+    width: 30% ;
+    height: 20px;
+    position: absolute;
+    left:58%;
+    top: 55px;
+
+}
+ 
+div.box4 {
+    width: 55% ;
+    height: 20px;
+    position: absolute;
+    left:38%;
+    bottom:15%;
+
+}
+ 
+
+ 
